@@ -73,6 +73,3 @@ Contributing to open-source is easy.
 	And, that's it!
 	
     New to Open Source? Don't know how to [`Create a Pull Request`](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)? read this documentation.
-
-
-[Click here for detailed explanation](CONTRIBUTING.md)
